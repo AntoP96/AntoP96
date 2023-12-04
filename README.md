@@ -5,15 +5,15 @@
   <a href="https://www.linkedin.com/in/antonio-paolino/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-## Hey there! :wave:
+## 👋 Hey there!
 
-### :man_technologist: About Me :
-I am an :it: Computer Engineering student and cybersecurity enthusiast! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap: In my free time, I study new technologies in cybersecurity.
-- :mailbox: How to reach me: [email](mailto:apaolino96@gmail.com)
+### 👨‍💻 About Me :
+I am an 🇮🇹 Computer Engineering student and cybersecurity enthusiast! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ In my free time, I study new technologies in cybersecurity.
+- 📫 How to reach me: [email](mailto:apaolino96@gmail.com)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
